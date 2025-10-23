@@ -1,0 +1,42 @@
+body {
+    background-color: lightblue;
+    font-family: cursive;
+    text-align: center;
+}
+
+h1 {
+    font-size: 30px;
+    color: white;
+}
+
+h2 {
+    font-size: 22px;
+    color: white;
+}
+
+p {
+    font-size: 18px;
+    width: 70%;
+    margin: auto;
+}
+
+img {
+    width: 250px;
+    border-radius: 15px;
+    margin-top: 20px;
+    box-shadow: 0 0 10px gray;
+}
+
+a {
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 8px;
+    text-decoration: none;
+    margin: 5px;
+    display: inline-block;
+}
+
+iframe {
+    margin-top: 20px;
+}
